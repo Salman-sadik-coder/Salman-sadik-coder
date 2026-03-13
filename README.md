@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Arturs
+# I am Salman
 #### I am Next.js Developer
 I can give you my best.. I can use AI well.
 
